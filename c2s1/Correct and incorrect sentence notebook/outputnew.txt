@@ -1,0 +1,1777 @@
+Sentence = The black dog has won many prizes but he doesn’t know many tricks.
+
+	The black dog has won many prizes
+	he doesn’t know many tricks.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = She saw a cat run in front of her so she fell down while rollerskating.
+
+	She saw a cat run in front of her
+	she fell down while rollerskating.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = There  was  a  meteor  shower  in  space  but  the  crew  did  not  know  how  to  avoid  the meteors.
+
+	There was a meteor shower in space
+	the crew did not know how to avoid the meteors.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I wanted to buy a baby Chihuahua so I started to save my money.
+
+	I wanted to buy a baby Chihuahua
+	I started to save my money.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Gillian did not like to read for she was not very good at it.
+
+	Gillian did not like to read
+	she was not very good at it.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Pam  liked  Wayne  and Leena also liked Wayne.
+
+	Pam liked Wayne
+	Leena also liked Wayne.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The little boy did not like to go to school yet he went anyway.
+
+	Already Simple ---
+	The little boy did not like to go to school yet he went anyway.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = You could cry like a baby or you can clean your room like an adult.
+
+	You could cry like a baby
+	you can clean your room like an adult.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = She didn’t want to play with Jill and she didn’t want to play with Tim.
+
+	She didn’t want to play with Jill
+	she didn’t want to play with Tim.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Arleen’s could not play with that boy nor could she play with that other boy.
+
+	Arleen’s could not play with that boy
+	could she play with that other boy.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Let’s go to the swimming pool for it’s hot inside the house.
+
+	Let’s go to the swimming pool
+	Let’s go to the swimming it’s hot inside the house.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I don’t want to eat and I don’t want to drink.
+
+	I don’t want to eat
+	I don’t want to drink.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I don’t want to practice playing the violin yet I don’t want to disobey my mother.
+
+	Already Simple ---
+	I don’t want to practice playing the violin yet I don’t want to disobey my mother.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I want to own my own company and I want to pay all my workers a lot of money.
+
+	I want to own my own company
+	I want to pay all my workers a lot of money.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I need to go to the store but I’m feeling too sick to drive.
+
+	I need to go to the store
+	I’m feeling too sick to drive.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Rabbits make good pets for they don’t make too much noise and they are clean.
+
+	Rabbits make good pets
+	they don’t make too much noise
+	they are clean.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I want to go to the circus and I want to ride a pony.
+
+	I want to go to the circus
+	I want to ride a pony.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I didn’t do my homework so my parents punished me.
+
+	I didn’t do my homework
+	my parents punished me.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = I have never visited Asia nor have I visited Africa.
+
+	I have never visited Asia
+	have I visited Africa.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = You can make a big poster or you can make a little clay statue.
+
+	You can make a big poster
+	you can make a little clay statue.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = A small kitten followed me home so I gave it a bowl of milk.
+
+	A small kitten followed me home
+	I gave it a bowl of milk.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = We were lost in the woods but my brother had a map in his backpack.
+
+	We were lost in the woods
+	my brother had a map in his backpack.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The girls were painting animal pictures and Katrina spilled the paint.
+
+	The girls were painting animal pictures
+	Katrina spilled the paint.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Would you like to go to the movies or would you rather stay hometonight
+
+	Would you like to go to the movies
+	would you rather stay hometonight
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Mr. Sanchez loved his new office but he didnt like the view.
+
+	Mr. Sanchez loved his new office
+	he didnt like the view.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Ivanas bicycle had a flat tire so she had to walk to the grocery store.
+
+	Ivanas bicycle had a flat tire
+	she had to walk to the grocery store.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = José wants to be an astronaut when he grows up and Maria wants tobe a nurse.
+
+	José wants to be an astronaut when he grows up
+	Maria wants tobe a nurse.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Dr. Neu told Greg to floss his teeth every day but he didnt listen.
+
+	Dr. Neu told Greg to floss his teeth every day
+	he didnt listen.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The tigers at the zoo are always sleeping but the penguins are fun to watch.
+
+	The tigers at the zoo are always sleeping
+	the penguins are fun to watch.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Tom arrived home and ate dinner.
+
+	Tom arrived home
+	Tom ate dinner.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = We studied many hours for the test but we didnt pass it.
+	Problem: Multiple Conjunction issue
+	We studied many hours
+	we didnt pass it.
+	the test didnt pass it.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Peter doesnt need to buy a new car nor does he need to go on vacation.
+	PROBLEM: Due to "NOR" the meaning not preseved.
+	Peter doesnt need to buy a new car
+	does he need to go on vacation.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Peter drove to visit his friend and they went out for dinner.
+
+Sentence = Peter drove to visit his friend and they went out for dinner.
+
+	Already Simple
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Mary thinks she should go to school for she wants to get qualifications for a new profession.
+
+	Mary thinks she should go to school
+	she wants to get qualifications
+	she wants to get a new profession.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Alan invested a lot of money in the business but the business went bankrupt.
+
+	Alan invested a lot of money in the business
+	the business went bankrupt.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Doug didnt understand the homework assignment so he asked the teacher for help.
+Problem: Multiple conjunction (usage of for)
+	Doug didnt understand the homework assignment
+	he asked the teacher
+	he help.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = The students didnt prepare for the test nor did they realize how important the test was.
+Problem: For caused the conjunctions to have problems(Considered it as multiple conjunction)
+Sentence = The students didnt prepare for the test nor did they realize how important the test was.
+
+	Already Simple
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Susan thinks she should stay home and relax or she should go on vacation.
+	Problem: Multiple Conjunctions
+	Susan thinks she should stay home
+	relax
+	she should go on vacation.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The doctors looked at the xrays so they decided to operate on the patient.
+
+	The doctors looked at the xrays
+	they decided to operate on the patient.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = We went out on the town and we came home late.
+
+	We went out on the town
+	we came home late.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Jack flew to London to visit his Uncle and to visit the National Museum.
+
+	Jack flew to London to visit his Uncle
+	Jack to visit the National Museum.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = It is sunny but it is very cold.
+
+	It is sunny
+	it is very cold.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = Henry studied very hard for the test so passed with high marks.
+Problem : Multiple conjunction
+Sentence = Henry studied very hard for the test so passed with high marks.
+
+	Already Simple
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I would like to play tennis today or I would like to play golf.
+
+	I would like to play tennis today
+	I would like to play golf.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = We needed some food for the week so we went to the supermarket.
+Problem: For
+	We needed some food
+	we went to the supermarket.
+	the week nt to the supermarket.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Tom asked his teacher for help and he asked his parents.
+
+	Tom asked his teacher
+	he asked his parents.
+	help asked his parents.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Janet doesnt like sushi nor does she like any kind of fish.
+
+	Janet doesnt like sushi
+	Janet does she like any kind of fish.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Ms. Tory held Margaret’s hand but she did not speak.
+
+	Ms. Tory held Margaret’s hand
+	she did not speak.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Maizon kept Margaret from doing things but now Maison is gone.
+
+	Maizon kept Margaret from doing things
+	now Maison is gone.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margaret will try new things or she will stay the same.
+
+	Margaret will try new things
+	she will stay the same.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margaret’s dad died and she lost her best friend.
+
+	Margaret’s dad died
+	she lost her best friend.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The summer had brought sadness and Margaret had suffered.
+
+	The summer had brought sadness
+	Margaret had suffered.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Next summer might be better or it might be worse.
+
+	Next summer might be better
+	it might be worse.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margaret hoped for better times but she couldn’t count on them.
+
+	Margaret hoped
+	she couldn’t count on them.
+	better times couldn’t count on them.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margaret’s poem is long but it is not complicated.
+
+	Margaret’s poem is long
+	it is not complicated.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margart does not discuss Maizon in this poem but she does tell about her father’s death.
+
+	Margart does not discuss Maizon in this poem
+	she does tell about her father’s death.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The poem mentions Margaret’s mother and it quotes advice from Ms. Dell.
+
+	The poem mentions Margaret’s mother
+	it quotes advice from Ms. Dell.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Margaret could have refused to write the poem or she could have refused to read it to the class.
+
+	Margaret could have refused to write the poem
+	she could have refused to read it to the class.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The poem was well written and Ms. Peazle was proud of Margaret’s efforts.
+
+	The poem was well written
+	Ms. Peazle was proud of Margaret’s efforts.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The class did not say anything about the poem but they did react to it.
+
+	The class did not say anything about the poem
+	they did react to it.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Maybe no one knew what to say or maybe the students were afraid to say the wrong thing.
+
+	Maybe no one knew what to say
+	maybe the students were afraid to say the wrong thing.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The students were silent but Ms. Peazle knew what to write.
+
+	The students were silent
+	Ms. Peazle knew what to write.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = My dog eats fruit of any kind but she will not eat meat or cheese.
+
+	My dog eats fruit of any kind
+	she will not eat meat
+	she will not eat cheese.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The new rug in the living room is beautiful but it does not match the furniture.
+
+	The new rug in the living room is beautiful
+	it does not match the furniture.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Kelly applied for a job in accounting at the new medical facility in town.
+
+	Kelly applied
+	a job in accounting at the new medical facility in town.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = My mother mopped and waxed the hardwood floors in our house.
+
+	My mother mopped
+	mother waxed the hardwood floors in our house.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I went to the store without a list so I bought all junk food.
+
+	I went to the store without a list
+	I bought all junk food.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Bosco chased his tail but he never did catch it.
+
+	Bosco chased his tail
+	he never did catch it.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Minnie traveled through Europe and explored many interesting castles.
+
+	Minnie traveled through Europe
+	Minnie explored many interesting castles.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The flowers in the garden behind our house are in full bloom at this time.
+
+	Already Simple ---
+	The flowers in the garden behind our house are in full bloom at this time.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Leslie and Mark will sing in the talent show.
+
+	Mark will sing in the talent show.
+	Leslie will sing in the talent show.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Leslie will sing and dance in the talent show.
+
+Sentence = Leslie will sing and dance in the talent show.
+
+	Already Simple
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Father was a carpenter by trade and he built us a sturdy home.
+
+	Father was a carpenter by trade
+	he built us a sturdy home.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I crossed my arms over my chest and pouted.
+
+	I crossed my arms over my chest
+	I pouted.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I couldn’t throw it into High Street
+
+	Already Simple ---
+	I couldn’t throw it into High Street
+
+
+----
+Sentence = it might spook one of the horses.
+
+	Already Simple ---
+	it might spook one of the horses.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I had just saved her precious quilt from disaster but would she appreciate it
+
+	I had just saved her precious quilt from disaster
+	would she appreciate it
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The water in the washbasin was cloudy and the facecloth smelled like old cheese.
+
+	The water in the washbasin was cloudy
+	the facecloth smelled like old cheese.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The size of the room did not match the size of our family.
+
+	Already Simple ---
+	The size of the room did not match the size of our family.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = My father built our home and business after the War for Independence ended in 1783.
+
+	My father built our home
+	Independence ended in 1783.
+	business after the War ended in 1783.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The room where we served customers filled most of the first floor and had four large windows.
+
+	The room where we served customers filled most of the first floor
+	room had four large windows.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Joe camped and hiked with his Boy Scout troop.
+
+	Joe camped
+	Joe hiked with his Boy Scout troop.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = She did not cheat on the test for it was the wrong thing to do.
+
+	She did not cheat on the test
+	it was the wrong thing to do.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I really need to go to work but I am too sick to drive.
+
+	I really need to go to work
+	I am too sick to drive.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I am counting my calories yet I really want dessert.
+
+	Already Simple ---
+	I am counting my calories yet I really want dessert.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He ran out of money so he had to stop playing poker.
+
+	He ran out of money
+	he had to stop playing poker.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = They got there early and they got really good seats.
+
+	They got there early
+	they got really good seats.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = They had no ice cream left at home nor did they have money to go to the store.
+
+	They had no ice cream left at home
+	did they have money to go to the store.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Everyone was busy so I went to the movie alone.
+
+	Everyone was busy
+	I went to the movie alone.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I thought the promotion was mine but my attendance wasnt good enough.
+
+	I thought the promotion was mine
+	my attendance wasnt good enough.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Should we start class now or wait for everyone to get here
+
+	Should we start class now
+	wait
+	everyone to get here
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = It was getting dark and we werent near the cabin yet.
+
+	It was getting dark
+	we werent near the cabin yet.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Cats are good pets for they are clean and are not noisy.
+
+	Cats are good pets
+	they are clean
+	they are not noisy.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = We have never been to Asia nor have we visited Africa.
+
+	We have never been to Asia
+	have we visited Africa.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He didnt want to go to the dentist yet he went anyway.
+
+	Already Simple ---
+	He didnt want to go to the dentist yet he went anyway.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The sky is clear
+
+	Already Simple ---
+	The sky is clear
+
+
+----
+Sentence = the stars are twinkling.
+
+	Already Simple ---
+	the stars are twinkling.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The waves were crashing on the shore
+
+	Already Simple ---
+	The waves were crashing on the shore
+
+
+----
+Sentence = it was a lovely sight.
+
+	Already Simple ---
+	it was a lovely sight.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = There were whiteout conditions in the town
+
+	Already Simple ---
+	There were whiteout conditions in the town
+
+
+----
+Sentence = therefore the roads were impassable.
+
+	Already Simple ---
+	therefore the roads were impassable.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Check back tomorrow
+
+	Already Simple ---
+	Check back tomorrow
+
+
+----
+Sentence = I will see if the book has arrived.
+
+	Already Simple ---
+	I will see if the book has arrived.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He said he was not there yesterday
+
+	Already Simple ---
+	He said he was not there yesterday
+
+
+----
+Sentence = many people saw him there.
+
+	Already Simple ---
+	many people saw him there.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I am happy to take your donation
+
+	Already Simple ---
+	I am happy to take your donation
+
+
+----
+Sentence = any amount will be greatly appreciated.
+
+	Already Simple ---
+	any amount will be greatly appreciated.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = She only paints with bold colors
+
+	Already Simple ---
+	She only paints with bold colors
+
+
+----
+Sentence = indeed she does not like pastels at all.
+
+	Already Simple ---
+	indeed she does not like pastels at all.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = She works two jobs to make ends meet
+
+	Already Simple ---
+	She works two jobs to make ends meet
+
+
+----
+Sentence = at least that was her reason for not having time to join us.
+
+	at least that was her reason
+	not having time to join us.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Malls are great places to shop
+
+	Already Simple ---
+	Malls are great places to shop
+
+
+----
+Sentence = I can find everything I need under one roof.
+
+	Already Simple ---
+	I can find everything I need under one roof.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Italy is my favorite country
+
+	Already Simple ---
+	Italy is my favorite country
+
+
+----
+Sentence = I plan to spend two weeks there next year.
+
+	Already Simple ---
+	I plan to spend two weeks there next year.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He turned in the research paper on Friday
+
+	Already Simple ---
+	He turned in the research paper on Friday
+
+
+----
+Sentence = he would have not passed the class otherwise.
+
+	Already Simple ---
+	he would have not passed the class otherwise.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = You need to pack the appropriate things for camping
+
+Sentence = You need to pack the appropriate things for camping
+
+	Already Simple
+
+-----
+Sentence = for example a sleeping bag will keep you warm.
+
+	example a sleeping bag will keep you warm.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = I have paid my dues
+
+	Already Simple ---
+	I have paid my dues
+
+
+----
+Sentence = as a result I expect to receive all the privileges listed in the bylaws.
+
+	Already Simple ---
+	as a result I expect to receive all the privileges listed in the bylaws.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He must run fast or he will not catch the train.
+
+	He must run fast
+	he will not catch the train.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He must run fast to catch the train.
+
+	Already Simple ---
+	He must run fast to catch the train.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The sun rose and the sky cleared.
+
+	The sun rose
+	the sky cleared.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The sun having risen the sky cleared.
+
+	Already Simple ---
+	The sun having risen the sky cleared.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He repeatedly failed but he did not give up.
+
+	He repeatedly failed
+	he did not give up.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = In spite of his repeated failures he did not give up.
+
+	Already Simple ---
+	In spite of his repeated failures he did not give up.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = They not only looted the shop but also set it on fire.
+
+	They not only looted the shop
+	They also set it on fire.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Besides looting the shop they set it on fire.
+
+	Already Simple ---
+	Besides looting the shop they set it on fire.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = He was lazy
+
+	Already Simple ---
+	He was lazy
+
+
+----
+Sentence = therefore he failed.
+
+	Already Simple ---
+	therefore he failed.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Being lazy he failed.
+
+	Already Simple ---
+	Being lazy he failed.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = They did not have sufficient funds. They had to abandon the project.
+
+	Already Simple ---
+	They did not have sufficient funds. They had to abandon the project.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Owing to the lack of funds they had to abandon the project.
+
+	Already Simple ---
+	Owing to the lack of funds they had to abandon the project.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The sky was clear. We resumed our journey.
+
+	Already Simple ---
+	The sky was clear. We resumed our journey.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The sky being clear we resumed our journey.
+
+	Already Simple ---
+	The sky being clear we resumed our journey.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = The child found her mother absent. She began to cry.
+
+	Already Simple ---
+	The child found her mother absent. She began to cry.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Finding her mother absent the child began to cry.
+
+	Already Simple ---
+	Finding her mother absent the child began to cry.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+***Sentence = He not only recommended me to several employers but lent me some money also.
+- Problem: Spacy recognized "me" as subject and not as object
+- Hence further down, it caused, me to be considered as an object in the original sentence.
+	He not only recommended me to several employers
+	lent me some money also.
+
+-----
+Sentence =
+
+	Already Simple ---
+
+
+
+----
+Sentence = Besides recommending me to several employers he also lent me some money.
+
+	Already Simple ---
+	Besides recommending me to several employers he also lent me some money.
+
+
+----
+Sentence =
+
+	Already Simple ---
+
+
+
+----

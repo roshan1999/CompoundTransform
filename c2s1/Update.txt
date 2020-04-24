@@ -1,0 +1,9 @@
+The file "S2C_File_Input" -> changeS:
+1. Took into consideration the cases where such sentences :
+   1. I have never visited Africa nor have I visited Asia
+   are resolved as:
+   -> I have never visited Africa
+   -> have i visited Asia
+ Now resolved as:
+  -> I have never visited Africa
+  -> i have visited Asia
