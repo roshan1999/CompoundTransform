@@ -1,0 +1,88 @@
+Extracting simple sentences from Compound sentences. 
+
+A compound sentence is a sentence which has atleast 2 independent clauses combined with coordinating conjunction.
+
+Different types of compound sentences: 
+
+Compound sentences can generally be classified into three types:
+
+1. When there exists 2 subjects each of the 2 independent clause performing 2 different actions combined by a coordinating conjunction.
+
+Example: Cats like to drink milk and dogs like to chew bone.
+
+2. When a subject of an independent clause performs 2 actions combined by a coordinating conjunction.
+
+Example: Cats like to drink milk and play with dogs.
+
+3. When there exists an independent clause combined using a coordinating conjunction with another object that further extends the first independent clause.
+
+Example: Cats like to play with dogs and other cats.
+
+
+General Formula:
+
+<<S>> = <<subj>>+<<verb>>+<<obj>>  -------------------------------- 1.0
+	where S indicates a simple sentence or an independent clause.
+
+<<C>> = <<subj>>+<<verb>>+<<obj>> + <<CC>> + <<subj>>+<<verb>>+<<obj>> or <<verb>>+<<obj>> or <<obj>>
+
+	where C indicates a compound sentence 
+	and CC indicates a coordinating conjunction.
+
+Steps:
+	1. Droping the Coordinating conjunction:
+
+	<<C>> = <<S>> + <<S>> or <<S>>-<<subj>> or <<S>> - <<subj>> - <<verb>>
+
+	2. Splitting:
+
+		2 sentences:
+
+		a. <<S1>> = <<subj1>>+<<verb1>>+<<obj1>>
+		b. <<S2>> or <<S2>> - <<subj2>> or <<S2>> - <<subj2>> - <<verb2>>
+	
+	3. Condition checking:
+
+		i. If <<S2>> is equal to <<subj2>> + <<verb2>> + <<obj2>>
+
+		output: <<S1>>  <= 1st simple sentence
+				<<S2>>  <= 2nd simple sentence
+
+		ii. if <<S2>> is equal to <<verb2>> + <<obj2>>
+
+		output: <<S1>> <= 1st simple sentence
+				<<S3>> = <<subj1>> + <<verb2>> + <<obj2>>  <=2nd simple sentence
+
+		iii. if <<S2>> is equal to <<obj2>>
+
+		output: <<S1>> <=1st simple sentence
+				<<S3>> = <<sunj1>> + <<verb1>> + <<obj1>>  <= 2nd simple 
+
+Cases Taken into consideration:
+
+1.
+
+Since the method deals with the basic form of a sentence that works with just the subject, verb and object any other meaning pertaining to the sentence is preserved after the splitting. 
+
+example:
+
+We have never been to Asia, nor have we visited Africa.
+
+This is splitted to:
+
+1. We have never been to Asia.
+2. We have never visited Africa.
+
+Hence the meaning is preserved after the split.
+
+2.
+For a more robust solution , instead of splitting the first independent clause into a subject, verb and an object, use the entirety of the first clause and remove the verb and words after the verb and then combine with the second sentence. This preserves the infinitives and the other adverbs and adjectives that might precede the verb. 
+
+Example:
+
+He likes to run and swim.
+
+==> He likes to run.
+==> He likes to swim.
+
+In this case the verb are run and swim and the infinitives like " likes to " should be included to form a complete sentence. 
