@@ -1,5 +1,5 @@
 # PUBLISHED! 
-IEEE Access Journal: 10.1109/ACCESS.2022.3174846
+[IEEE Access Journal 2022 Vol 10](https://10.1109/ACCESS.2022.3174846)
 
 # Major Issues (Algo limitation):
 I have completed the code, and I have found 2 cases where the code doesn't give the correct output. These are both the limitations of the ALGORITHM
